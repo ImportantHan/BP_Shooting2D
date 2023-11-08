@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Project/Shooting_2D/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Project/Shooting_2D/Content/Maps/GameMap.umap",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_ShootingGameModeBase.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_Player.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_Tail.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_Bullet.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_Enemy.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_EnemyManager.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_DestroyZone.uasset",
+				"C:/Project/Shooting_2D/Content/Textures/Space.uasset",
+				"C:/Project/Shooting_2D/Content/Textures/MAT_Space.uasset",
+				"C:/Project/Shooting_2D/Content/Textures/MAT_SnowMountain.uasset",
+				"C:/Project/Shooting_2D/Content/Textures/SnowMountain.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Drone_BaseColor.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Drone_Emissive.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Drone_low.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Drone_Metallic_Smooth.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Drone_Normal.uasset",
+				"C:/Project/Shooting_2D/Content/Sound/Explosion.uasset",
+				"C:/Project/Shooting_2D/Content/Model/Drone/Material__24.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Spaceship_ARA.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Low/Spaceship_New_UV_BaseColor.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Spaceship_New_UV_BaseColor.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Spaceship_New_UV_Emissive.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Low/Spaceship_New_UV_Emissive.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Low/Spaceship_New_UV_Normal.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Spaceship_New_UV_Normal.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Spaceship_New_UV_OcclusionRoughnessMetallic.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/Unreal_Texture/Low/Spaceship_New_UV_OcclusionRoughnessMetallic.uasset",
+				"C:/Project/Shooting_2D/Content/Sound/star-wars-blaster.uasset",
+				"C:/Project/Shooting_2D/Content/Model/SpaceShip/UV.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/WBP_Score.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/WBP_GameOver.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/WBP_PlayerHP.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BP_SaveGame.uasset",
+				"C:/Project/Shooting_2D/Content/Blueprint/BT_Enemy.uasset",
+				"C:/Project/Shooting_2D/Content/Textures/M_Space.uasset"
+			]
+		}
+	]
+}

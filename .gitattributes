@@ -1,0 +1,8 @@
+Content/Blueprint filter=lfs diff=lfs merge=lfs -text
+Content/Collections filter=lfs diff=lfs merge=lfs -text
+Content/Developers filter=lfs diff=lfs merge=lfs -text
+Content/Maps filter=lfs diff=lfs merge=lfs -text
+Content/Model filter=lfs diff=lfs merge=lfs -text
+Content/Sound filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent filter=lfs diff=lfs merge=lfs -text
+Content/Textures filter=lfs diff=lfs merge=lfs -text
